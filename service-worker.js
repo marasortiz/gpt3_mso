@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/marasortiz/gpt3_mso/precache-manifest.b0a81b7e6debfb80c32ca4c3b5f18914.js"
+  "/gpt3_mso/precache-manifest.2b53989c890247a027259761b626753c.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/marasortiz/gpt3_mso/index.html", {
+workbox.routing.registerNavigationRoute("/gpt3_mso/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
