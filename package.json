@@ -1,7 +1,7 @@
 {
   "name": "gpt3_mso",
   "version": "0.1.0",
-  "homepage": "https://github.com/marasortiz/gpt3_mso",
+  "homepage": "https://marasortiz.github.io/gpt3_mso",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
