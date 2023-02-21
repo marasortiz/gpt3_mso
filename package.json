@@ -2,7 +2,7 @@
   "name": "gpt3_mso",
   "version": "0.1.0",
   "homepage": "https://github.com/marasortiz/gpt3_mso",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
